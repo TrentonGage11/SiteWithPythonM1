@@ -1,0 +1,4 @@
+<html>
+<% import time %>
+The time is: <%=time.strftime("%Y-%m-%d, %H:%M:%S")%>
+</html>
